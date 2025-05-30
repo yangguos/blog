@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yangguos.github.io/blog/</loc>
+    <loc>https://yangguos.github.io/</loc>
     <lastmod>2025-05-30T14:33:39-04:00</lastmod>
   </url><url>
-    <loc>https://yangguos.github.io/blog/posts/</loc>
+    <loc>https://yangguos.github.io/posts/</loc>
     <lastmod>2025-05-30T13:57:25-04:00</lastmod>
   </url><url>
-    <loc>https://yangguos.github.io/blog/posts/first/</loc>
+    <loc>https://yangguos.github.io/posts/first/</loc>
     <lastmod>2025-05-30T13:19:41-04:00</lastmod>
   </url><url>
-    <loc>https://yangguos.github.io/blog/categories/</loc>
+    <loc>https://yangguos.github.io/categories/</loc>
   </url><url>
-    <loc>https://yangguos.github.io/blog/tags/</loc>
+    <loc>https://yangguos.github.io/tags/</loc>
   </url>
 </urlset>
