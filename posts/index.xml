@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Future Shock</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/blog/posts/</link>
     <description>Recent content in Posts on Future Shock</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 May 2025 13:57:25 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is the latest development in Retrieval-Augmented Generation (RAG)?</title>
-      <link>http://localhost:1313/posts/second/</link>
+      <link>http://localhost:1313/blog/posts/second/</link>
       <pubDate>Fri, 30 May 2025 13:57:25 -0400</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
+      <guid>http://localhost:1313/blog/posts/second/</guid>
       <description>&lt;p&gt;The latest development in Retrieval-Augmented Generation (RAG) includes the introduction of the modular RAG framework, which decomposes complex RAG systems into independent modules and specialized operators. This framework facilitates a highly reconfigurable design that transcends the traditional linear architecture by integrating routing, scheduling, and fusion mechanisms. Additionally, recent advancements have focused on improving retrieval efficiency, addressing scalability, bias, and ethical concerns, and expanding the scope of RAG applications. The development of RAGChecker, a fine-grained evaluation framework, also represents a significant advancement, providing diagnostic metrics for both retrieval and generation modules to better evaluate RAG systems. These developments aim to enhance the robustness, reliability, and applicability of RAG systems in various domains.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is Machine Learning?</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>http://localhost:1313/blog/posts/first/</link>
       <pubDate>Fri, 30 May 2025 13:19:41 -0400</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>http://localhost:1313/blog/posts/first/</guid>
       <description>&lt;p&gt;At its core, machine learning is a subset of artificial intelligence that enables systems to learn from data and improve over time without being explicitly programmed. Instead of following static instructions, ML algorithms identify patterns in data and make predictions or decisions based on those patterns.&lt;/p&gt;&#xA;&lt;p&gt;Why Learn Machine Learning?&lt;/p&gt;&#xA;&lt;p&gt;The applications of ML are vast and growing: ￼&#xA;•&#x9;Healthcare: Predicting disease outbreaks and personalizing treatment plans.&#xA;•&#x9;Finance: Detecting fraudulent transactions and automating trading strategies.&#xA;•&#x9;Retail: Enhancing customer experiences through personalized recommendations.&#xA;•&#x9;Transportation: Powering autonomous vehicles and optimizing logistics. ￼&lt;/p&gt;</description>
     </item>
   </channel>
