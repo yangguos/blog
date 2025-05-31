@@ -6,8 +6,22 @@
     <description>Recent content on Future Shock</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 13:19:41 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 14:33:39 -0400</lastBuildDate>
     <atom:link href="https://yangguos.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Info</title>
+      <link>https://yangguos.github.io/info/</link>
+      <pubDate>Fri, 30 May 2025 14:33:39 -0400</pubDate>
+      <guid>https://yangguos.github.io/info/</guid>
+      <description>&lt;div style=&#34;display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;&#34;&gt;&#xA;&lt;div style=&#34;flex: 1; min-width: 250px;&#34;&gt;&#xA;  &lt;p&gt;Yang Guo&lt;/p&gt;&#xA;  &lt;p&gt;A engineer and data scientist passionate about AI, machine learning, and building useful tools.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;flex: 0 0 200px;&#34;&gt;&#xA;  &lt;img src=&#34;https://yangguos.github.io/images/yang.png&#34; alt=&#34;Yang profile&#34; style=&#34;width: 100%; border-radius: 8px;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>What is the latest development in Retrieval-Augmented Generation (RAG)?</title>
+      <link>https://yangguos.github.io/posts/second/</link>
+      <pubDate>Fri, 30 May 2025 13:57:25 -0400</pubDate>
+      <guid>https://yangguos.github.io/posts/second/</guid>
+      <description>&lt;p&gt;The latest development in Retrieval-Augmented Generation (RAG) includes the introduction of the modular RAG framework, which decomposes complex RAG systems into independent modules and specialized operators. This framework facilitates a highly reconfigurable design that transcends the traditional linear architecture by integrating routing, scheduling, and fusion mechanisms. Additionally, recent advancements have focused on improving retrieval efficiency, addressing scalability, bias, and ethical concerns, and expanding the scope of RAG applications. The development of RAGChecker, a fine-grained evaluation framework, also represents a significant advancement, providing diagnostic metrics for both retrieval and generation modules to better evaluate RAG systems. These developments aim to enhance the robustness, reliability, and applicability of RAG systems in various domains.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>What is Machine Learning?</title>
       <link>https://yangguos.github.io/posts/first/</link>
